@@ -1,73 +1,52 @@
-# Welcome to the Project
+#  TaxSaathi: Real-Time Tax Copilot
+**GFG RBU Campus Hackathon 2026** | **Track:** FinTech / Business Solutions
 
-## Project info
+TaxSaathi is a production-ready React web app designed for Indian micro-businesses and freelancers. It automates GST calculations, tracks the ₹20L registration threshold, and simplifies compliance through a bilingual interface.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+##  Team: WordLife
+* **Aiyaan Mahajan** - *Team Leader* - *Full Stack Engineer & Core Logic* 
+* **Fathima Manal** - *Product Architect & Financial UX*
 
-There are several ways of editing your application.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+##  Tech Stack
+* **Frontend:** React.js (Vite)
+* **Styling:** Tailwind CSS (Mobile-first)
+* **Charts:** Recharts (Data Visualization)
+* **Icons:** Lucide-React
+* **State Management:** React Hooks (`useState`, `useMemo`)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+##  Key Features
+* **Smart Dashboard:** Real-time calculation of Total Sales, Expenses, and Net GST Payable.
+* **Automated GST Engine:** Handles 12% (Services) vs 18% (Goods) rates and auto-calculates Input Tax Credit (ITC).
+* **Threshold Alerts:** Dynamic tracking of the ₹20 Lakh turnover limit for mandatory GST registration.
+* **Compliance Calendar:** Integrated reminders for GSTR-1, GSTR-3B, and Income Tax filing dates.
+* **Bilingual TaxChat:** A Hindi/English assistant to resolve common GST queries instantly.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+##  Quick Start
 
-Follow these steps:
+1. **Clone & Install**
+   ```bash
+   git clone [https://github.com/](https://github.com/)[your-username]/taxsaathi.git
+   cd taxsaathi
+   npm install
+2. **Install dependencies**
+   ```bash
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+     npm install
+3. **Run Development Server**
+   ```bash
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+    npm run dev
+4. **Build for Production**
+   ```bash
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+   npm run build
+**Developed with ❤️ at GFG RBU Campus Hackathon.**
