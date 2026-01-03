@@ -36,7 +36,7 @@ TaxSaathi is a production-ready React web app designed for Indian micro-business
    ```bash
    git clone git@github.com:ByteQuest-2025/GFGBQ-Team-wordlife.git
    cd taxsaathi
-   npm install
+   
 2. **Install dependencies**
    ```bash
 
