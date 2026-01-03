@@ -1,2 +1,2 @@
 # GFGBQ-Team-wordlife
-Repository for wordlife - Vibe Coding Hackathon
+Repository of wordlife - Vibe Coding Hackathon
