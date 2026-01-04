@@ -11,7 +11,7 @@ Small Indian businesses and freelancers struggle with GST compliance, tax calcul
 https://gfgbq-team-wordlife.vercel.app/
 
 ## 5️⃣ 2-Minute Demonstration Video Link
-(Add your demo video link here)
+[Video](https://docs.google.com/videos/d/1Wc873wlkLs97NBW3ZbANVSModsgCd1xVUspFVzKpFxA/edit?usp=sharing)
 
 ## 6️⃣ PPT Link
 https://docs.google.com/presentation/d/1x39cjS-qOg6BwxB2A_tpH4l8eAlewPZP/edit?usp=sharing
