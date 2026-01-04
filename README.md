@@ -56,7 +56,7 @@ It automates GST calculations, tracks the ₹20L registration threshold, and sim
 1. **Clone & Install**
    ```bash
    git clone git@github.com:ByteQuest-2025/GFGBQ-Team-wordlife.git
-   cd taxsaathi
+
    
 2. **Install dependencies**
    ```bash
