@@ -1,4 +1,3 @@
-
 ## 1️⃣ Problem Statement
 Small Indian businesses and freelancers struggle with GST compliance, tax calculations, and filing deadlines. Existing tools are complex or expensive — leading to penalties, incorrect filings, and financial stress.
 
@@ -9,44 +8,46 @@ Small Indian businesses and freelancers struggle with GST compliance, tax calcul
 **WordLife**
 
 ## 4️⃣ Deployed Link 
-[Live Link]([url](https://gfgbq-team-wordlife.vercel.app))
+https://gfgbq-team-wordlife.vercel.app/
 
 ## 5️⃣ 2-Minute Demonstration Video Link
 (Add your demo video link here)
 
 ## 6️⃣ PPT Link
-[Ppt]([url](https://docs.google.com/presentation/d/1x39cjS-qOg6BwxB2A_tpH4l8eAlewPZP/edit?usp=sharing))
+https://docs.google.com/presentation/d/1x39cjS-qOg6BwxB2A_tpH4l8eAlewPZP/edit?usp=sharing
 
-  
+---
 
-📑 **Pitch Deck:** [Ppt Link](https://docs.google.com/presentation/d/1x39cjS-qOg6BwxB2A_tpH4l8eAlewPZP/edit?usp=sharing&ouid=107009196645971072692&rtpof=true&sd=true ) 
+## Project Overview
+📑 **Pitch Deck:**  
+https://docs.google.com/presentation/d/1x39cjS-qOg6BwxB2A_tpH4l8eAlewPZP/edit?usp=sharing
 
-TaxSaathi is a production-ready React web app designed for Indian micro-businesses and freelancers. It automates GST calculations, tracks the ₹20L registration threshold, and simplifies compliance through a bilingual interface.
+TaxSaathi is a production-ready React web app designed for Indian micro-businesses and freelancers.  
+It automates GST calculations, tracks the ₹20L registration threshold, and simplifies compliance through a bilingual interface.
 
 ---
 
 ## Team: WordLife
-* **Aiyaan Mahajan** - *Team Leader* - *Full Stack Engineer & Core Logic* 
-* **Fathima Manal** - *Product Architect & Financial UX*
+- **Aiyaan Mahajan** — Team Leader, Full Stack Engineer & Core Logic  
+- **Fathima Manal** — Product Architect & Financial UX  
 
 ---
 
 ## Tech Stack
-* **Frontend:** React.js (Vite)
-* **Styling:** Tailwind CSS (Mobile-first)
-* **Charts:** Recharts (Data Visualization)
-* **Icons:** Lucide-React
-* **State Management:** React Hooks (`useState`, `useMemo`)
+- **Frontend:** React.js (Vite)  
+- **Styling:** Tailwind CSS (Mobile-first)  
+- **Charts:** Recharts  
+- **Icons:** Lucide-React  
+- **State Management:** React Hooks (`useState`, `useMemo`)  
 
 ---
 
 ## Key Features
-* **Smart Dashboard:** Real-time calculation of Total Sales, Expenses, and Net GST Payable.
-* **Automated GST Engine:** Handles 12% (Services) vs 18% (Goods) rates and auto-calculates Input Tax Credit (ITC).
-* **Threshold Alerts:** Dynamic tracking of the ₹20 Lakh turnover limit for mandatory GST registration.
-* **Compliance Calendar:** Integrated reminders for GSTR-1, GSTR-3B, and Income Tax filing dates.
-* **Bilingual TaxChat:** A Hindi/English assistant to resolve common GST queries instantly.
-
+- **Smart Dashboard:** Real-time view of sales, expenses, and GST payable  
+- **Automated GST Engine:** Handles 12% (services) & 18% (goods) + ITC  
+- **Threshold Alerts:** Tracks ₹20 lakh GST registration limit  
+- **Compliance Calendar:** Reminders for GSTR-1, GSTR-3B, Income Tax  
+- **Bilingual TaxChat:** Hindi/English assistant for GST queries  
 
 ---
 
