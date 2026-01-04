@@ -1,5 +1,13 @@
 ## 1️⃣ Problem Statement
-Small Indian businesses and freelancers struggle with GST compliance, tax calculations, and filing deadlines. Existing tools are complex or expensive — leading to penalties, incorrect filings, and financial stress.
+70% of India's 63M micro-businesses + 10M gig workers stay informal due to:
+
+- GST Complexity: 5 tax slabs, confusing GSTR-1/3B forms, monthly deadlines
+- Fear of Penalties: One wrong filing = ₹10k fine (terrifying for ₹2L earners)
+- 28.6 hours/month wasted on compliance
+- ₹5k/year accountants = 2.5% of micro-trader profits
+- ₹2L crore annual GST evasion due to FEAR
+
+Consequences: No bank loans, no govt schemes, can't scale, workers lose PF/insurance
 
 ## 2️⃣ Project Name
 **TaxSaathi — Real-Time Tax Copilot**
