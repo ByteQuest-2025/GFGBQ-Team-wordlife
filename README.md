@@ -8,8 +8,8 @@ Small Indian businesses and freelancers struggle with GST compliance, tax calcul
 ## 3️⃣ Team Name
 **WordLife**
 
-## 4️⃣ Deployed Link (optional)
-(Add here if live, or write: Not deployed yet)
+## 4️⃣ Deployed Link 
+[Live Link]((https://gfgbq-team-wordlife.vercel.app/))
 
 ## 5️⃣ 2-Minute Demonstration Video Link
 (Add your demo video link here)
