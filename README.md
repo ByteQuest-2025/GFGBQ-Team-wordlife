@@ -1,5 +1,23 @@
-# TaxSaathi: Real-Time Tax Copilot
-**GFG RBU Campus Hackathon 2026** | **Track:** FinTech / Business Solutions  
+
+## 1️⃣ Problem Statement
+Small Indian businesses and freelancers struggle with GST compliance, tax calculations, and filing deadlines. Existing tools are complex or expensive — leading to penalties, incorrect filings, and financial stress.
+
+## 2️⃣ Project Name
+**TaxSaathi — Real-Time Tax Copilot**
+
+## 3️⃣ Team Name
+**WordLife**
+
+## 4️⃣ Deployed Link (optional)
+(Add here if live, or write: Not deployed yet)
+
+## 5️⃣ 2-Minute Demonstration Video Link
+(Add your demo video link here)
+
+## 6️⃣ PPT Link
+[Ppt]([url](https://docs.google.com/presentation/d/1x39cjS-qOg6BwxB2A_tpH4l8eAlewPZP/edit?usp=sharing))
+
+  
 
 📑 **Pitch Deck:** [Ppt Link](https://docs.google.com/presentation/d/1x39cjS-qOg6BwxB2A_tpH4l8eAlewPZP/edit?usp=sharing&ouid=107009196645971072692&rtpof=true&sd=true ) 
 
